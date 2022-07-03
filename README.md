@@ -1,4 +1,5 @@
-# Hi 👋, I'm Sanjana Kumari Singh <br> <h3> Passionate Full Stack Web Developer</h3> ![image](https://user-images.githubusercontent.com/89686839/172126318-93781bbe-6760-4ac5-a279-f8118e7f2398.png)
+# Hi 👋, I'm Sanjana Kumari Singh <br> <h3 >**Passionate Full Stack Web Developer**</h3> <div ><img src="https://c.tenor.com/jM0aoM8e-iEAAAAC/web-developer-mycrxn.gif" width="100%" height="300px"></div>
+                                                                                  
 # 💫About Me 
 •🌱 I’m currently learning - MERN Stack <br>
 • 📫 How to reach me -  sanjana.kolkata13@gmail.com <br>
