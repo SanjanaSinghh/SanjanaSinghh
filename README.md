@@ -2,8 +2,8 @@
 # 💫About Me 
 •🌱 I’m currently learning - MERN Stack <br>
 • 📫 How to reach me -  sanjana.kolkata13@gmail.com <br>
-• 👨‍💻 All of my projects are available at - https://sanjana-portfolio.netlify.app/ <br>
-• 📄 Know about my experiences - https://drive.google.com/file/d/1vh6Wcm34t76E_LTYorv2TuHMHva4aSz0/view?usp=sharing
+• 👨‍💻 All of my projects are available at - [PORTFOLIO](https://sanjana-portfolio.netlify.app/) <br>
+• 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/1vh6Wcm34t76E_LTYorv2TuHMHva4aSz0/view?usp=sharing)
 
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjanasinghh/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sanjana79561636) 
